@@ -4,8 +4,6 @@
   "type": "library",
   "require": {
     "drupal/devel": "~1.0",
-    "drupal/drupal-extension": "~3.3.0",
-    "phpunit/phpunit": "5.7.21",
     "symfony/css-selector": "~2.8"
   },
   "license": "MIT",
