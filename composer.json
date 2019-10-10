@@ -4,7 +4,8 @@
   "type": "library",
   "require": {
     "drupal/devel": "~2.0",
-    "drupal/console": "~1.9.3"
+    "drupal/console": "~1.9.3",
+    "phpunit/phpunit": "^4.8.35 || ^6.5"
   },
   "license": "MIT",
   "authors": [
