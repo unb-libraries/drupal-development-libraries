@@ -3,8 +3,8 @@
   "description": "Libraries to append to Drupal builds for local development and testing.",
   "type": "library",
   "require": {
-    "drupal/core-dev": "^9.1",
-    "drupal/devel": "^4"
+    "drupal/core-dev": "^10",
+    "drupal/devel": "^5"
   },
   "license": "MIT",
   "authors": [
